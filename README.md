@@ -4,6 +4,16 @@ This research was supported by the Federal Ministry of Education and Research (B
 
 ---
 
+## Project Team
+
+Developed at HTW Dresden:
+
+- **Abishek Sunilkumar** — Research & development (RL pipeline, simulation, sim-to-real transfer)
+- **Fouad Bahrpeyma** — Research supervision and methodology
+- **Dirk Reichelt** — Project lead
+
+---
+
 # Engine Inspection Task 
 
 In this repositiory, you can find the source code to train a UR10 robot to do an inspection task on engine (or any other object). The task is defined with the following requirements:
